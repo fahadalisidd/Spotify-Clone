@@ -21,4 +21,4 @@ Building layouts using Flexbox
 Working with fonts, spacing, and colors
 
 Reproducing real-world web designs
-Live-Demo 
+Live-Demo  https://fahadalisidd.github.io/Spotify-Clone/
